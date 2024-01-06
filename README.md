@@ -1,3 +1,3 @@
 # GenericVector
 Learning C
-Generic data structures using void pointers
+generic data structures using void pointers
