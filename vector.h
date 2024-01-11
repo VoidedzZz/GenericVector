@@ -1,6 +1,8 @@
 #pragma once
 #include <stdlib.h>
 
+#define GROWTH_FACTOR 2
+
 typedef struct Vector
 {
     size_t stride;
